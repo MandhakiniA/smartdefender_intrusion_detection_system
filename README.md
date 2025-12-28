@@ -86,7 +86,7 @@ Timing and jitter attributes
 #  Installation
 1. Clone the Repository
 ```
-git clone https://github.com/ThakshaRishi/SmartDefender
+
 cd SmartDefender
 ```
 2. Create Virtual Environment
